@@ -241,4 +241,4 @@ Brawlhalla is available as a full free version with all features unlocked and al
 Don't wait any longer! Download Brawlhalla now and join the fight with friends around the world!
 
 ---
-**Last updated:** 2026-09-29 21:55:29 UTC
+**Last updated:** 2026-09-30 01:07:31 UTC
